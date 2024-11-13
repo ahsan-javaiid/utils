@@ -6,3 +6,4 @@ Utility scripts to interact with Rootstock blockchain.
 
 - Get events by topic for a given contract address
 - Verify swap from RIF to USDRIF of value min $10.
+- Verify vote on chain task for dao
